@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name kailh-footprint-test-board-rescue)(type Legacy)(uri "${KIPRJMOD}/kailh footprint test board-rescue.lib")(options "")(descr ""))
+)
