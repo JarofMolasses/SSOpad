@@ -1,4 +1,3 @@
-# SSOpad
 what is a github
 
 ### neat pictures
