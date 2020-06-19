@@ -1,1 +1,0 @@
-These be kicad projects
