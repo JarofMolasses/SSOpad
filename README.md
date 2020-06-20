@@ -1,5 +1,5 @@
 what is a github
-### firmware
+### Firmware
 Can run QMK firmware, see: https://github.com/JarofMolasses/qmk_firmware/tree/master/keyboards/ssopads
 
 ### neat pictures
