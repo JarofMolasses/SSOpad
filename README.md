@@ -1,4 +1,6 @@
 what is a github
+### firmware
+Can run QMK firmware, see: https://github.com/JarofMolasses/qmk_firmware/tree/master/keyboards/ssopads
 
 ### neat pictures
 V1.2 Teensy, underglow on a perfboard
